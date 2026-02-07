@@ -28,7 +28,7 @@ Vous présenterez :
 * les aspects pédagogiques et illustrations  
 * un algorithme de votre choix, expliqué avec un exemple et la visualisation dans le logiciel  
 
-Ensuite, questions sur les aspects techniques.
+Ensuite, questions sur les aspects techniques. 
 
 ---
 

@@ -5,7 +5,6 @@ from src.gui.grille import Grille
 from src.gui.action_bar import ActionBar
 from src.gui.resultat_bar import ResultatBar
 
-
 def main():
     root = tk.Tk()
     root.title("Algorithmes de graphes")

@@ -2,7 +2,6 @@ from tkinter import DoubleVar
 
 from src.constantes import DELAI_VAGUE, DELAI_CHEMIN, NOMBRE_TERRAIN_MAXIMUM
 
-
 class Controleur:
     def __init__(self, root):
         self.root = root
